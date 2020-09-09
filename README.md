@@ -4,6 +4,6 @@
 3. Understand and use polymorphism in OOP
 
 # Images of Finished Project
-![](image/1.png)
-![](image/2.png)
-![](image/3.png)
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
